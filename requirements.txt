@@ -1,0 +1,7 @@
+fastapi
+email-validator
+motor
+pydantic
+starlette
+typing-extensions
+uvicorn
