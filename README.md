@@ -1,6 +1,7 @@
 # fastapi-mongodb
 
 From: https://www.mongodb.com/developer/quickstart/python-quickstart-fastapi/ 
+From https://testdriven.io/blog/fastapi-mongo/ 
 
 ### Local Setup
 

@@ -1,6 +1,7 @@
 fastapi
 motor
-pydantic
-bson
+pydantic[email]
+pymongo
 typing
 uvicorn
+python-decouple
